@@ -1,0 +1,7 @@
+<set xmlns:anroid="http://schemas.android.com/apk/res/android">
+    <translate anroid:fromXDelta="0" anroid:toXDelta="100%p"
+        anroid:duration="500"></translate>
+    <alpha anroid:fromAlpha="1.0"
+        anroid:toAlpha="0.1"
+        anroid:duration="500"></alpha>
+</set>
